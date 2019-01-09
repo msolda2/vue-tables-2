@@ -10841,7 +10841,7 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 module.exports = function () {
     return {
         framework: 'bootstrap3',
-        table: 'table table-striped table-bordered table-hover',
+        table: 'table table-hover',
         row: 'row',
         column: 'col-md-12',
         label: '',
@@ -10890,7 +10890,7 @@ module.exports = function () {
 module.exports = function () {
     return {
         framework: 'bootstrap4',
-        table: 'table table-striped table-bordered table-hover',
+        table: 'table table-hover',
         row: 'row',
         column: 'col-md-12',
         label: '',
