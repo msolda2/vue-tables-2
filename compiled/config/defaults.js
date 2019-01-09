@@ -35,7 +35,7 @@ module.exports = function () {
       count: "Showing {from} to {to} of {count} records|{count} records|One record",
       first: 'First',
       last: 'Last',
-      filter: "Filter:",
+      filter: "",
       filterPlaceholder: "Search",
       limit: "Records:",
       page: "Page:",
