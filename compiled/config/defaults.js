@@ -36,7 +36,7 @@ module.exports = function () {
       first: 'First',
       last: 'Last',
       filter: "Filter:",
-      filterPlaceholder: "Search query",
+      filterPlaceholder: "Search",
       limit: "Records:",
       page: "Page:",
       noResults: "No matching records",
