@@ -3,7 +3,7 @@
 module.exports = function () {
     return {
         framework: 'bootstrap4',
-        table: 'table table-striped table-hover',
+        table: 'table table-striped table-borderless table-hover',
         row: 'row',
         column: 'col-md-12',
         label: '',
